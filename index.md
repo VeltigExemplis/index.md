@@ -4,7 +4,13 @@
     	function initEmbeddedMessaging() {
     		try {
     			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
-    
+          			embedded_svc.settings.prepopulatedPrechatFields = {
+			  FirstName:,
+			  LastName:,
+			  Email:,
+			  Subject:
+        };
+
     			embeddedservice_bootstrap.init(
     				'00DO400000C6iHG',
     				'SitOnIt_Messaging_Chat',
