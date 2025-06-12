@@ -24,7 +24,7 @@
 		}
 	};
 	</script>
-	<script type='text/javascript' src='https://exemplis--partial.sandbox.my.site.com/ESWSitOnItMessagingChat1749155554156/assets/js/bootstrap.min.js' 				onload='initEmbeddedMessaging()'></script>![image](https://github.com/user-attachments/assets/fa605b81-d0c1-4530-964e-3bd9c9f565f6)
+	<script type='text/javascript' src='https://exemplis--partial.sandbox.my.site.com/ESWSitOnItMessagingChat1749155554156/assets/js/bootstrap.min.js' 				onload='initEmbeddedMessaging()'></script>
 	</body>
 </html>
 
